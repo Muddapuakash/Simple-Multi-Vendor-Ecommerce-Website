@@ -28,7 +28,6 @@ Pay with Debit/Credit Card and Order
 While Checkout, User should give the address to deliver
 Get Email Notification about the confirmation of the order
 Support Developer
-Subscribe & Share my YouTube Channel - https://bit.ly/vijay-thapa-online-courses
 Add a Star 🌟 to this 👆 Repository
 Donate
 PayPal
@@ -73,7 +72,7 @@ For Mac
 $  source venv/bin/activate
 3. Clone this project
 
-$  git clone https://github.com/vijaythapa333/simple-multivendor-site.git
+$  git clone https://github.com/Muddapuakash/Simple-Multi-Vendor-Ecommerce-Website
 Then, Enter the project
 
 $  cd simple-multivendor-site
