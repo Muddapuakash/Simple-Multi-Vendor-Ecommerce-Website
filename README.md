@@ -133,6 +133,6 @@ Then Add Email, Username and Password
 
 
 ## For Sponsor or Projects Enquiry
-1. Email - akashmuddapu@gmail.com
-2. LinkedIn - www.linkedin.com/in/muddapuakash
+1. Email - hi@vijaythapa.com
+2. LinkedIn - [vijaythapa](https://www.linkedin.com/in/vijaythapa "Vijay Thapa on LinkedIn")
 
