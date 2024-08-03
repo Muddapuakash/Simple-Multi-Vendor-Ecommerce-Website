@@ -142,10 +142,9 @@ STRIPE_SECRET_KEY = 'sk_test_jaIdMJOlkcUG6QpXV5wAJxXT005aZAJVM1' # For Django Ba
 # For Email Notification
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST = 'smtp.gmail.com'
-EMAIL_HOST_USER = 'projecttechverse02@gmail.com'
-EMAIL_HOST_PASSWORD = 'znylvfowuhurzujg'
-EMAIL_PORT =  587
+EMAIL_HOST_USER = 'YOUR-EMAIL'
+EMAIL_HOST_PASSWORD = 'YOUR-EMAIL-PASSWORD'
+EMAIL_PORT = 587
 EMAIL_USE_TLS = True
-EMAIL_USE_SSL = False
-DEFAULT_EMAIL_FROM = 'Multi Vendor Site <projecttechverse02@gmail.com>'
+DEFAULT_EMAIL_FROM = 'Multi Vendor Site <YOUR-EMAIL>'
 
